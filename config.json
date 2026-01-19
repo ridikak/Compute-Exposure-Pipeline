@@ -1,0 +1,11 @@
+{
+  "db_path": "commute.db",
+  "aq_csv": "data/raw/aq_hourly.csv",
+  "ridership_csv": "data/raw/ridership_hourly.csv",
+  "map_csv": "data/raw/station_site_map.csv",
+  "anomaly_threshold": 2.0,
+  "epsilon": 1e-06,
+  "output_dir": "data/processed",
+  "report_dir": "reports",
+  "log_level": "INFO"
+}
